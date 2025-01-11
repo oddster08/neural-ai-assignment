@@ -72,7 +72,7 @@ src/
 
 ## Acknowledgements
 
-- [React](https://reactjs.org/)on.
+- [React](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Axios](https://axios-http.com/)
 - Special thanks to the backend team for providing the API integration
